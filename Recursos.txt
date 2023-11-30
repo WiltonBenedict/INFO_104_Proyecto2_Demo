@@ -1,0 +1,3 @@
+CSS navbar: https://codepen.io/sorinbotirla/pen/QyoYgx
+
+CSS header: https://blog.hubspot.com/website/css-animation-examples
